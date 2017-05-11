@@ -1,0 +1,12 @@
+﻿Build started 10/04/2017 22:49:33.
+     1>Project "F:\!!!CLR moje\Naparzanie\Naparzanie\Naparzanie.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\!!!CLR moje\Naparzanie\x64\Debug\Naparzanie.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:x64\Debug\Naparzanie.Game.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"F:\!!!CLR moje\Naparzanie\x64\Debug\Naparzanie.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS,"5.02" /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 x64\Debug\Game.obj
+         x64\Debug\Main.obj
+         "x64\Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Naparzanie.vcxproj -> F:\!!!CLR moje\Naparzanie\x64\Debug\Naparzanie.exe
+     1>Done Building Project "F:\!!!CLR moje\Naparzanie\Naparzanie\Naparzanie.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.26
